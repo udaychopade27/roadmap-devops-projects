@@ -4,7 +4,7 @@ This repository contains projects listed on [roadmap.sh](https://roadmap.sh/) un
 
 1. [**Server Performance Stats**](https://roadmap.sh/projects/server-stats) here's my [**solution**](https://github.com/udaychopade27/roadmap-devops-projects/tree/main/Server-Performance-Stats)
 
-2. [**Log Archive Tool**]
+2. [**Log Archive Tool**](https://roadmap.sh/projects/log-archive-tool) here's my [**solution**](https://github.com/udaychopade27/roadmap-devops-projects/tree/main/Log-Archive-Tool)
 
 3. [**Nginx Log Analyser**]
 
