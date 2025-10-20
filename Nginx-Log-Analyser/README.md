@@ -62,6 +62,7 @@ Example:
 ```
 
 ## 🧩 Example Output
+```bash
 =================================================
 NGINX LOG ANALYZER
 Analyzing: /var/log/nginx/access.log
@@ -95,8 +96,9 @@ Googlebot/2.1 - 80 requests
 Wget/1.21.1 - 50 requests
 PostmanRuntime/7.32.3 - 30 requests
 =================================================
+```
 
-🧠 How It Works
+## 🧠 How It Works
 | Step | Command                                    | Description                            |
 | ---- | ------------------------------------------ | -------------------------------------- |
 | 1    | `awk '{print $1}'`                         | Extracts IP addresses                  |
