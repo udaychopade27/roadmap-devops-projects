@@ -6,7 +6,7 @@ This repository contains projects listed on [roadmap.sh](https://roadmap.sh/) un
 
 2. [**Log Archive Tool**](https://roadmap.sh/projects/log-archive-tool) here's my [**solution**](https://github.com/udaychopade27/roadmap-devops-projects/tree/main/Log-Archive-Tool)
 
-3. [**Nginx Log Analyser**]
+3. [**Nginx Log Analyser**](https://roadmap.sh/projects/nginx-log-analyser) here's my [**solution**](https://github.com/udaychopade27/roadmap-devops-projects/tree/main/Nginx-Log-Analyser)
 
 4. [**GitHub Pages Deployment**]
 5. [**SSH Remote Server Setup**]
